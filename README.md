@@ -8,7 +8,7 @@ The 'Digital Clock' App displays the current time.
 
 ## Link
 
-Visit the countdown app
+Visit the Digital Clock
 [digital-clock](https://lucent-cobbler-44743f.netlify.app/)
 
 ## Code Snippet
